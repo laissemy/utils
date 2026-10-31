@@ -19,6 +19,4 @@ cd utils
 
 Depois, entre na pasta da ferramenta que quiser usar e siga o README dela.
 
-## Autora
-
-Feito por [@laissemy](https://github.com/laissemy).
+feito por [@laissemy](https://github.com/laissemy).
